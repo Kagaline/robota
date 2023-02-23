@@ -1,0 +1,5 @@
+robota
+MNIST/checkpoint
+MNIST/model.*
+pi_trans/checkpoint
+pi_trans/backer.*

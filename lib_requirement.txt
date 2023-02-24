@@ -1,5 +1,0 @@
-need to 'pip install '
-tensorflow
-matplotlib
-and 
-ipython
